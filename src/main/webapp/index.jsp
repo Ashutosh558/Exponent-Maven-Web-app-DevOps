@@ -2,7 +2,7 @@
 <body>
 <h1><font color='blue'> Hope You are doing well!!!<font></h1>
 <h1><font color='blue'> Good evening batch40!!!<font></h1>
-<h1><font color='blue'> Welcome to EXPONENT-IT (BATCH-40 AWS-DevOps) - AWS - Devops - Linux <font></h1>
+<h1><font color='blue'> Welcome to EXPONENT-IT (BATCH-40 AWS-DevOps with linux) - AWS - Devops - Linux <font></h1>
 
 <a href="https://www.exponent-it.com/">Click Here To See EXPONENT IT Training Schedules</a>
   
